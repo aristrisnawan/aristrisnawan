@@ -12,7 +12,7 @@ I truly enjoy transforming raw data into meaningful insights that help drive sma
 ## 📌 About Me
 
 - ✎ **Currently Learning**: Feature engineering, modeling, model evaluation, computer vision, and natural language processing (NLP).
-- 🤝 **Collaboration Interests**: Open to working on end-to-end data projects — from wrangling data to building machine learning models.
+- 🤝 **Collaboration Interests**: I'm open to collaborating on real-world data projects, particularly in areas like machine learning, computer vision, NLP, and data-driven product development. I enjoy working in teams where we can share ideas and grow together.
 - 💼 **Background**: With over two years of experience as a Frontend Developer, I specialized in building interactive and responsive web interfaces using ReactJS.  
 As I transition into the field of data, I apply my software engineering background to create structured, efficient, and maintainable solutions for data-driven projects.  
 This blend of skills allows me to approach data challenges with both analytical thinking and strong technical execution.
